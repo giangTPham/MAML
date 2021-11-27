@@ -3,7 +3,7 @@ Reading and implementing papers on MAML
 
 ## Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 
-Paper summary: 
+- Link paper: https://arxiv.org/pdf/1703.03400.pdf 
 
 **TO DO:**
 - [x] Implement MAML for SineWave Task and Quadratic Task on Jupyter Notebook
