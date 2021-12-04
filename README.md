@@ -8,5 +8,5 @@ Reading and implementing papers on MAML
 **TO DO:**
 - [x] Implement MAML for SineWave Task and Quadratic Task on Jupyter Notebook
 - [ ] Import above code to py files
-- [ ] Implement MAML for Omniglot dataset
+- [x] Implement MAML for Omniglot dataset
 - [ ] Import to py files
